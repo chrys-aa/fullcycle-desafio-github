@@ -27,6 +27,7 @@
 
 # fullcycle-desafio-github
 Repositório criado para conclusão do desafio fullcycle sobre permissionamento.
+Conteúdo aleatório adicionado ao README para testar a execução dos testes.
 
 ## Description
 
