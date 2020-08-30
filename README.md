@@ -27,7 +27,7 @@
 
 # fullcycle-desafio-github
 Repositório criado para conclusão do desafio fullcycle sobre permissionamento.
-
+Edição pra testar a proteção de branch
 
 ## Description
 
